@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2c4cb58679deeo31?svg=true)](https://ci.appveyor.com/project/LSimutina/avto-2-2-selenide)
